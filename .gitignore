@@ -1,0 +1,8 @@
+.DS_Store
+/bootstrap/compiled.php
+Thumbs.db
+LMongo.sublime-project
+LMongo.sublime-workspace
+/vendor
+composer.phar
+composer.lock
