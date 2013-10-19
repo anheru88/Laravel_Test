@@ -1,10 +1,11 @@
 {
-	"name": "laravel/laravel",
-	"description": "The Laravel Framework.",
-	"keywords": ["framework", "laravel"],
+	"name": "Laravel Test",
+	"description": "Proyecto Web para prueba de laravel.",
+	"keywords": [""],
 	"license": "MIT",
 	"require": {
-		"laravel/framework": "4.0.*"
+		"laravel/framework": "4.0.*",
+		"way/generators": "1.0.*@dev"
 	},
 	"autoload": {
 		"classmap": [
